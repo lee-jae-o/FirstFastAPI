@@ -9,11 +9,11 @@ FastAPI를 활용한 첫 프로젝트로, 회원가입, 로그인(JWT 인증), �
 
 ● 주요 기능
 
-      회원가입 & 로그인 (JWT 인증)  
-      게시글 작성, 조회, 수정, 삭제, 추천
-간단한 검색 기능
-FastAPI + SQLite 연동  
-Swagger UI 제공 (`http://localhost:8000/docs` 에서 API 테스트 가능)
+-회원가입 & 로그인 (JWT 인증)  
+-게시글 작성, 조회, 수정, 삭제, 추천
+-간단한 검색 기능
+-FastAPI + SQLite 연동  
+-Swagger UI 제공 (`http://localhost:8000/docs` 에서 API 테스트 가능)
 
 
 ● 사용 기술
