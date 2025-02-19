@@ -6,15 +6,7 @@
 -FastAPI를 사용하여 개발한 간단한 게시판API 
 
 -FastAPI를 활용한 첫 프로젝트로, 회원가입, 로그인(JWT 인증), 게시글 CRUD 기능을 구현
-
-
-
-
-
-
-
-
-
+<br>
 ● 주요 기능
 
 -회원가입 & 로그인 (JWT 인증)  
@@ -26,9 +18,7 @@
 -FastAPI + SQLite 연동  
 
 -Swagger UI 제공 (`http://localhost:8000/docs` 에서 API 테스트 가능)
-
-
-
+<br>
 ● 사용 기술
 
 -Backend: FastAPI, Pydantic
@@ -40,7 +30,7 @@
 -Authentication: JWT
 
 -Deployment: Uvicorn
-
-
+<br>
+<br>
 
   ~~스프링보다 어려운것같다..~~
