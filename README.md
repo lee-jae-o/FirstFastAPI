@@ -1,6 +1,7 @@
 # FastAPI 기반 게시판 프로젝트 (첫 FastAPI 프로젝트)
 
 <br>
+
 ● 프로젝트 개요
 
 -FastAPI를 사용하여 개발한 간단한 게시판API 
