@@ -18,11 +18,11 @@
 
 ● 사용 기술
 
-  Backend: FastAPI, Pydantic
-  Frontend: Svelte
-  Database: SQLite (간단한 데이터 저장)
-  Authentication: JWT
-  Deployment: Uvicorn
+   Backend: FastAPI, Pydantic
+   Frontend: Svelte
+   Database: SQLite (간단한 데이터 저장)
+   Authentication: JWT
+   Deployment: Uvicorn
 
 
   ~~스프링보다 어려운것같다..~~
