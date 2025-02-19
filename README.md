@@ -18,10 +18,10 @@
 -간단한 검색 기능
 
 -FastAPI + SQLite 연동  
-<br>
-<br>
-<br>
+
 -Swagger UI 제공 (`http://localhost:8000/docs` 에서 API 테스트 가능)
+<br>
+<br>
 <br>
 ● 사용 기술
 
